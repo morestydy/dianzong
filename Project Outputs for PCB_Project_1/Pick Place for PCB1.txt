@@ -1,66 +1,67 @@
 Altium Designer Pick and Place Locations
-E:\ADTest\dianzong\Project Outputs for PCB_Project_1\Pick Place for PCB1.txt
+E:\ADtest\dianzong\Project Outputs for PCB_Project_1\Pick Place for PCB1.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       19/10/19
-Time:       21:22
+Date:       25/10/19
+Time:       23:31
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
 
-Designator Comment      Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                
-R10        10K          TopLayer    R_0805_M           2279.997      3539.997      360      直插色环电阻                                     
-C1         22pF         TopLayer    CAPR5-4X5          2140.000      2020.000      90       ""                                         
-C2         100uF        TopLayer    CAP_7.5*16*25_-_BK 1660.394      2830.000      180      Capacitor                                  
-C3         100uF        TopLayer    CAP_7.5*16*25_-_BK 1660.000      3521.500      360      Capacitor                                  
-C4         104          BottomLayer C_0805_M           1684.997      3950.003      360      Capacitor                                  
-C5         104          TopLayer    C_0805_M           1595.003      4190.003      360      Capacitor                                  
-C6         22pF         TopLayer    CAPR5-4X5          2140.000      2298.425      270      ""                                         
-C15        22uF         TopLayer    CAP_2.5*5*11       2150.000      3700.000      0        直插固态电容                                     
-CY1        11.0592MHz   TopLayer    XTAL-1             2340.000      2170.000      90       ""                                         
-D1         1N4007       TopLayer    SOD-123            4500.000      1760.000      360      整流二极管                                      
-D2         1N4007       TopLayer    SOD-123            4500.000      1860.000      360      整流二极管                                      
-D3         1N4007       TopLayer    SOD-123            4500.000      2040.000      360      整流二极管                                      
-D4         1N4007       TopLayer    SOD-123            4500.000      1950.000      360      整流二极管                                      
-D5         1N4007       TopLayer    SOD-123            4504.000      2125.000      180      整流二极管                                      
-D6         1N4007       TopLayer    SOD-123            4504.000      2210.000      180      整流二极管                                      
-D7         1N4007       TopLayer    SOD-123            4500.000      2300.000      180      整流二极管                                      
-D8         1N4007       TopLayer    SOD-123            4500.000      2390.000      180      整流二极管                                      
-J1         CON4         TopLayer    SIP4               1350.000      4140.000      270      ""                                         
-J2         CON4         TopLayer    SIP4               3239.000      2164.000      270      Connector                                  
-J3         CON4         TopLayer    SIP4               1640.000      2130.000      270      ""                                         
-J4         ITR9608      TopLayer    SIP3               4190.000      3300.000      270      ""                                         
-J5         CON4         TopLayer    SIP4               2304.000      2965.000      90       Connector                                  
-J6         12V          TopLayer    SIP2               1719.000      4668.000      180      Connector                                  
-J7         GND          TopLayer    SIP2               2070.000      4668.000      180      Connector                                  
-J8         CON4         TopLayer    SIP4               1640.000      1690.000      90       ""                                         
-L298N      L298N        TopLayer    L298N散热片           3950.000      2115.000      360      ""                                         
-LED2       红色           TopLayer    LED_3MM-B          4734.000      1840.000      180      插件LED                                      
-LED3       红色           TopLayer    LED_3MM-B          4734.000      2005.000      360      插件LED                                      
-LED4       红色           TopLayer    LED_3MM-B          4734.000      2175.000      180      插件LED                                      
-LED5       红色           TopLayer    LED_3MM-B          4734.000      2375.000      360      插件LED                                      
-M1         M3           TopLayer    M3x4+6_L           1419.000      4880.000      0        铜柱孔                                        
-M2         M3           TopLayer    M3x4+6_L           4936.000      4880.000      0        铜柱孔                                        
-M3         M3           TopLayer    M3x4+6_L           1389.000      1327.000      0        铜柱孔                                        
-M4         M3           TopLayer    M3x4+6_L           4962.000      1350.000      0        铜柱孔                                        
-P1         电机1          TopLayer    HDR1X2             4910.000      2700.000      180      2P接插件                                      
-P2         电机2          TopLayer    HDR1X2             4630.000      2700.000      180      2P接插件                                      
-R11        1k           TopLayer    RS_1/2W            3499.000      3845.000      180      直插色环电阻                                     
-R12        1k           TopLayer    RS_1/2W            3499.000      3710.000      180      直插色环电阻                                     
-R13        1k           TopLayer    RS_1/2W            3499.000      3575.000      180      直插色环电阻                                     
-R14        1k           TopLayer    RS_1/2W            3499.000      3440.000      180      直插色环电阻                                     
-R15        1k           TopLayer    RS_1/2W            3499.000      3305.000      180      直插色环电阻                                     
-R16        1k           TopLayer    RS_1/2W            3499.000      3170.000      180      直插色环电阻                                     
-R17        1k           TopLayer    RS_1/2W            3504.000      3035.000      180      直插色环电阻                                     
-R18        1k           TopLayer    RS_1/2W            3504.000      2895.000      180      直插色环电阻                                     
-R19        1K           BottomLayer R_0805_M           4484.003      2124.997      180      直插色环电阻                                     
-R20        1K           BottomLayer R_0805_M           4480.003      1949.997      180      直插色环电阻                                     
-SMG2       8041A        TopLayer    SMG_0.39-4P_A      3260.000      4670.000      360      0.8寸4位共阴数码管                                
-SW1        "KFC 7X7"    TopLayer    KFC_DIP-7X7        1573.000      4437.000      270      7*7自锁开关                                    
-SW3        6x6x5        TopLayer    TSW_DIP-6*6*6      2778.000      1505.000      180      直插6x6轻触开关                                  
-SW4        6x6x5        TopLayer    TSW_DIP-6*6*6      2383.142      1505.000      180      直插6x6轻触开关                                  
-U1         STC12C5A60S2 TopLayer    DIP40-600          2799.000      2965.000      0        "8-Bit Microcontroller with 32K Flash ROM" 
-U2         7805         TopLayer    TO126              1640.000      4060.000      270      ""                                         
-SW2        6x6x5        TopLayer    TSW_DIP-6*6*6      3189.000      1505.000      180      直插6x6轻触开关                                  
+Designator Comment      Layer       Footprint     Center-X(mil) Center-Y(mil) Rotation Description                                
+J9         GND          TopLayer    SIP4          1540.000      1340.000      180      ""                                         
+L298N      L298N        TopLayer    L298N散热片      2085.000      695.000       360      ""                                         
+R10        10K          BottomLayer R_0805_M      464.997       1884.997      90       直插色环电阻                                     
+C1         22pF         TopLayer    瓷片电容          285.000       590.000       90       ""                                         
+C2         100uF        TopLayer    CAP_2.5*5*11  165.000       2225.000      180      Capacitor                                  
+C3         100uF        TopLayer    CAP_2.5*5*11  390.788       2100.000      180      Capacitor                                  
+C4         104          BottomLayer C_0805_M      475.003       2459.997      180      Capacitor                                  
+C5         104          TopLayer    C_0805_M      439.997       2500.003      270      Capacitor                                  
+C6         22pF         TopLayer    瓷片电容          285.000       880.000       270      ""                                         
+C15        22uF         TopLayer    CAP_2.5*5*11  169.213       2020.000      180      直插固态电容                                     
+CY1        11.0592MHz   TopLayer    XTAL-1        450.000       740.000       90       ""                                         
+D1         1N4007       TopLayer    SOD-123       2510.000      385.000       360      整流二极管                                      
+D2         1N4007       TopLayer    SOD-123       2510.000      485.000       360      整流二极管                                      
+D3         1N4007       TopLayer    SOD-123       2510.000      665.000       360      整流二极管                                      
+D4         1N4007       TopLayer    SOD-123       2510.000      575.000       360      整流二极管                                      
+D5         1N4007       TopLayer    SOD-123       2514.000      750.000       180      整流二极管                                      
+D6         1N4007       TopLayer    SOD-123       2514.000      835.000       180      整流二极管                                      
+D7         1N4007       TopLayer    SOD-123       2510.000      925.000       180      整流二极管                                      
+D8         1N4007       TopLayer    SOD-123       2510.000      1015.000      180      整流二极管                                      
+J1         POWER        TopLayer    SIP4          1070.000      2760.000      360      ""                                         
+J2         CON4         TopLayer    SIP4          1440.000      740.000       270      Connector                                  
+J3         VCC          TopLayer    SIP4          1915.000      2760.000      180      ""                                         
+J4         ITR9608      TopLayer    SIP3          495.000       1170.000      270      ""                                         
+J5         CON4         TopLayer    SIP4          495.000       1540.000      90       Connector                                  
+J6         12V          TopLayer    SIP2          745.000       2760.000      180      Connector                                  
+J7         GND          TopLayer    SIP2          510.000       2760.000      180      Connector                                  
+J8         GND          TopLayer    SIP4          1495.000      2760.000      180      ""                                         
+LED2       红色           TopLayer    LED_3MM-B     2720.000      470.000       180      插件LED                                      
+LED3       红色           TopLayer    LED_3MM-B     2730.000      650.000       360      插件LED                                      
+LED4       红色           TopLayer    LED_3MM-B     2715.000      825.000       180      插件LED                                      
+LED5       红色           TopLayer    LED_3MM-B     2725.000      995.000       360      插件LED                                      
+M1         M3           TopLayer    M3x4+6_L      200.000       2965.000      0        铜柱孔                                        
+M2         M3           TopLayer    M3x4+6_L      2820.000      2965.000      0        铜柱孔                                        
+M3         M3           TopLayer    M3x4+6_L      190.000       200.000       0        铜柱孔                                        
+M4         M3           TopLayer    M3x4+6_L      2845.000      195.000       0        铜柱孔                                        
+P1         电机1          TopLayer    HDR2.54-LI-2P 2905.000      650.000       270      2P接插件                                      
+P2         电机2          TopLayer    HDR2.54-LI-2P 2905.000      870.000       90       2P接插件                                      
+R11        1k           TopLayer    RS_1/2W       1689.000      2474.055      180      直插色环电阻                                     
+R12        1k           TopLayer    RS_1/2W       1689.000      2339.055      180      直插色环电阻                                     
+R13        1k           TopLayer    RS_1/2W       1689.000      2204.055      180      直插色环电阻                                     
+R14        1k           TopLayer    RS_1/2W       1689.000      2069.055      180      直插色环电阻                                     
+R15        1k           TopLayer    RS_1/2W       1689.000      1934.055      180      直插色环电阻                                     
+R16        1k           TopLayer    RS_1/2W       1689.000      1799.055      180      直插色环电阻                                     
+R17        1k           TopLayer    RS_1/2W       1694.000      1664.055      180      直插色环电阻                                     
+R18        1k           TopLayer    RS_1/2W       1694.000      1524.055      180      直插色环电阻                                     
+R19        1K           BottomLayer R_0805_M      2579.997      714.997       90       直插色环电阻                                     
+R20        1K           BottomLayer R_0805_M      2485.003      489.997       180      直插色环电阻                                     
+SMG2       8041A        TopLayer    SMG_0.39-4P_A 2430.000      1995.000      270      0.8寸4位共阴数码管                                
+SW1        "KFC 7X7"    TopLayer    KFC_DIP-7X7   245.000       2545.000      270      7*7自锁开关                                    
+SW3        6x6x5        TopLayer    TSW_DIP-6*6*6 1005.000      305.000       180      直插6x6轻触开关                                  
+SW4        6x6x5        TopLayer    TSW_DIP-6*6*6 635.000       305.000       180      直插6x6轻触开关                                  
+U1         STC12C5A60S2 TopLayer    DIP40-600     960.000       1540.000      0        "8-Bit Microcontroller with 32K Flash ROM" 
+U2         7805         TopLayer    TO126         430.000       2315.000      90       ""                                         
+SW2        6x6x5        TopLayer    TSW_DIP-6*6*6 1370.000      305.000       180      直插6x6轻触开关                                  

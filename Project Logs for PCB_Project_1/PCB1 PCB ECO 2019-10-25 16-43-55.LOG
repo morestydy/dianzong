@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=L298N-0
+Change Component Footprint: Designator=P1 Old Footprint=HDR2.0-LI-2P New Footprint=HDR2.54-LI-2P
+Change Component Footprint: Designator=P2 Old Footprint=HDR2.0-LI-2P New Footprint=HDR2.54-LI-2P

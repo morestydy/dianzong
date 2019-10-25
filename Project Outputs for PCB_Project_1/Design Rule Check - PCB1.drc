@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\ADTest\dianzong\PCB1.PcbDoc
-Date     : 2019/10/19
-Time     : 20:34:04
+PCB File : E:\ADtest\dianzong\PCB1.PcbDoc
+Date     : 2019/10/25
+Time     : 23:33:25
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -21,4 +21,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP 7.5*16*25 - BK New Footprint=CAP 1.5*4*8
+Change Component Footprint: Designator=C3 Old Footprint=CAP 7.5*16*25 - BK New Footprint=CAP 1.5*4*8
+Change Component Designator: OldDesignator=12V NewDesignator=J1
+Change Component Designator: OldDesignator=GND NewDesignator=J7
+Change Component Designator: OldDesignator=ITR9608 NewDesignator=J4
+Change Component Designator: OldDesignator=电机1 NewDesignator=P2
+Change Component Designator: OldDesignator=电机2 NewDesignator=P1
+Change Component Designator: OldDesignator=电源接口 NewDesignator=J6
